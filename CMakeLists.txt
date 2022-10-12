@@ -19,8 +19,8 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   edo_core_msgs
   roslib
-  angles
   cmake_modules
+  angles
 )
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -I/opt/orl/include/")
 
