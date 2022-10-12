@@ -54,7 +54,7 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>edo_core_msgs</run_depend>
   <run_depend>tinyxml</run_depend>
-  <run_depend>angles</build_depend>
+  <run_depend>angles</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
