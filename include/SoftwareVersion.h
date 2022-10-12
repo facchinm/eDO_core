@@ -36,9 +36,9 @@
 #ifndef SOFTWARE_VERSION_H_
 #define SOFTWARE_VERSION_H_
 
-#define EDO_SW_MAJOR thisWillBeChangedBy build_edo
-#define EDO_SW_MINOR thisWillBeChangedBy build_edo
-#define EDO_SW_REVISION thisWillBeChangedBy build_edo
-#define EDO_SW_VERSIONING thisWillBeChangedBy build_edo
+#define EDO_SW_MAJOR 3
+#define EDO_SW_MINOR 2
+#define EDO_SW_REVISION 0
+#define EDO_SW_VERSIONING 0
 
 #endif /* SOFTWARE_VERSION_H_ */
